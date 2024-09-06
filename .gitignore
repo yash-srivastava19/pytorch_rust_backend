@@ -1,0 +1,6 @@
+venv
+__pycache__
+.benchmarks
+.pytest_cache
+rustlib\.benchmarks
+rustlib\.pytest_cache
